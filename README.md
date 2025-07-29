@@ -28,8 +28,8 @@ O desafio consiste em desenvolver um sistema de batalha entre gladiadores, que o
 
 **Exemplo de Entrada e Saída:**
 
-| Entrada | Saída |
-|---------|-------|
+| Entrada                                                                                                                     | Saída                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Marcelo<br>10<br>Goku<br>8<br>7<br>38<br>Gon<br>5<br>4<br>12<br>Gojo<br>7<br>8<br>28<br>Luffy<br>6<br>7<br>17<br>0 1<br>3 4 | Marcelo ganhou a batalha contra Goku.<br>Gojo ganhou a batalha contra Luffy. |
 
 ---
@@ -40,11 +40,11 @@ Anderson finalmente conseguiu um espaço em seu apartamento para expor sua cole�
 
 **Exemplo de Entrada e Saída:**
 
-| Entrada | Saída |
-|---------|-------|
-| Bombus terrestris<br>2<br>Anoplophora glabripennis<br>Apis mellifera<br>Danaus plexippus<br>1.5<br>Mantis religiosa<br>7.5<br>Danaus plexippus<br>3.5<br>Anoplophora glabripennis<br>3 | Bombus terrestris<br>Anoplophora glabripennis<br>Apis mellifera<br>Danaus plexippus<br>Mantis religiosa |
-| 8<br>Tenebrio molitor<br>Pieris brassicae<br>Forficula auricularia<br>2.2<br>Pieris brassicae<br>Lucanus cervus<br>Zophobas morio<br>7<br>Nymphalis antiopa<br>Papilio machaon<br>3.2<br>Periplaneta americana<br>Tenebrio molitor<br>Lucanus cervus<br>1.5<br>Forficula auricularia<br>1.5<br>Nymphalis antiopa<br>3<br>Zophobas morio<br>2.5<br>Periplaneta americana<br>4 | Pieris brassicae<br>Forficula auricularia<br>Nymphalis antiopa<br>Zophobas morio<br>Periplaneta americana<br>Tenebrio molitor<br>Lucanus cervus |
-| 7<br>Coccinella septempunctata<br>Coccinella septempunctata<br>Aglais io<br>0.8<br>Gryllus campestris<br>Acherontia atropos<br>Vanessa atalanta<br>5<br>Melolontha melolontha<br>Oryctes nasicornis<br>Oryctes nasicornis<br>4<br>Acherontia atropos<br>Vanessa atalanta<br>2.8<br>Gryllus campestris<br>2.5<br>Aglais io<br>2.3<br>Melolontha melolontha<br>3 | Coccinella septempunctata<br>Gryllus campestris<br>Acherontia atropos<br>Vanessa atalanta<br>Aglais io<br>Melolontha melolontha<br>Oryctes nasicornis |
+| Entrada                                                                                                                                                                                                                                                                                                                                                                      | Saída                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bombus terrestris<br>2<br>Anoplophora glabripennis<br>Apis mellifera<br>Danaus plexippus<br>1.5<br>Mantis religiosa<br>7.5<br>Danaus plexippus<br>3.5<br>Anoplophora glabripennis<br>3                                                                                                                                                                                       | Bombus terrestris<br>Anoplophora glabripennis<br>Apis mellifera<br>Danaus plexippus<br>Mantis religiosa                                               |
+| 8<br>Tenebrio molitor<br>Pieris brassicae<br>Forficula auricularia<br>2.2<br>Pieris brassicae<br>Lucanus cervus<br>Zophobas morio<br>7<br>Nymphalis antiopa<br>Papilio machaon<br>3.2<br>Periplaneta americana<br>Tenebrio molitor<br>Lucanus cervus<br>1.5<br>Forficula auricularia<br>1.5<br>Nymphalis antiopa<br>3<br>Zophobas morio<br>2.5<br>Periplaneta americana<br>4 | Pieris brassicae<br>Forficula auricularia<br>Nymphalis antiopa<br>Zophobas morio<br>Periplaneta americana<br>Tenebrio molitor<br>Lucanus cervus       |
+| 7<br>Coccinella septempunctata<br>Coccinella septempunctata<br>Aglais io<br>0.8<br>Gryllus campestris<br>Acherontia atropos<br>Vanessa atalanta<br>5<br>Melolontha melolontha<br>Oryctes nasicornis<br>Oryctes nasicornis<br>4<br>Acherontia atropos<br>Vanessa atalanta<br>2.8<br>Gryllus campestris<br>2.5<br>Aglais io<br>2.3<br>Melolontha melolontha<br>3               | Coccinella septempunctata<br>Gryllus campestris<br>Acherontia atropos<br>Vanessa atalanta<br>Aglais io<br>Melolontha melolontha<br>Oryctes nasicornis |
 
 ---
 
@@ -54,9 +54,9 @@ Eduardo estava cuidando do estoque da pastelaria da família e teve a ideia de c
 
 **Exemplo de Entrada e Saída:**
 
-| Entrada | Saída |
-|---------|-------|
-| 4<br>Farinha 2<br>Ovo 12<br>Oleo 1<br>Sal 1<br>Ovo | Ovo em estoque! |
+| Entrada                                            | Saída                         |
+| -------------------------------------------------- | ----------------------------- |
+| 4<br>Farinha 2<br>Ovo 12<br>Oleo 1<br>Sal 1<br>Ovo | Ovo em estoque!               |
 | 3<br>Frango 5<br>Calabresa 4<br>Queijo 9<br>Banana | Nao existe Banana em estoque! |
 
 ---
@@ -67,10 +67,10 @@ Eduardo, após refletir muito, achou que poderia melhorar o sistema do estoque a
 
 **Exemplo de Entrada e Saída:**
 
-| Entrada | Saída |
-|---------|-------|
-| 4<br>1 Farinha 2<br>2 Ovo 12<br>3 Oleo 1<br>4 Sal 1<br>2 | Ovo em estoque! |
-| 3<br>1 Frango 5<br>2 Calabresa 4<br>3 Queijo 9<br>7 | Nao existem produtos com esse codigo em estoque! |
+| Entrada                                                  | Saída                                            |
+| -------------------------------------------------------- | ------------------------------------------------ |
+| 4<br>1 Farinha 2<br>2 Ovo 12<br>3 Oleo 1<br>4 Sal 1<br>2 | Ovo em estoque!                                  |
+| 3<br>1 Frango 5<br>2 Calabresa 4<br>3 Queijo 9<br>7      | Nao existem produtos com esse codigo em estoque! |
 
 ---
 
@@ -84,10 +84,10 @@ A saída deve mostrar os elementos depois de serem inseridos na tabela hash. Nas
 
 **Exemplo de Entrada e Saída:**
 
-| Entrada | Saída |
-|---------|-------|
+| Entrada                              | Saída                           |
+| ------------------------------------ | ------------------------------- |
 | 11<br>9<br>10 22 31 4 15 28 17 88 59 | 88 10 28 22 -1 17 -1 31 4 15 -1 |
-| 7<br>4<br>12 23 6 43 | 43 23 -1 -1 12 6 -1 |
+| 7<br>4<br>12 23 6 43                 | 43 23 -1 -1 12 6 -1             |
 
 ---
 
@@ -103,8 +103,8 @@ Por fim, ele vai entrar com dois números inteiros V e C, indicando respectivame
 
 **Exemplo de Entrada e Saída:**
 
-| Entrada | Saída |
-|---------|-------|
+| Entrada                                                                                                        | Saída        |
+| -------------------------------------------------------------------------------------------------------------- | ------------ |
 | 4<br>3477 arco 20<br>5455 escudo 15<br>2125 espada 12<br>3474 flecha 10<br>3477 5455 -1<br>2125 3474 -1<br>1 0 | 20 moeda(s). |
 | 4<br>3477 arco 20<br>5455 escudo 15<br>2125 espada 12<br>3474 flecha 10<br>3477 5455 -1<br>2125 3474 -1<br>2 1 | 25 moeda(s). |
 
